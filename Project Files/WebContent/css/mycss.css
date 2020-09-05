@@ -1,0 +1,30 @@
+.featurebox {
+	width: 90% !important;
+	background: #E6FFE6;
+	border: 1px solid #000066;
+	border-radius: 10px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	margin: 0 auto;
+	padding: 15px 10px 15px 10px !important;
+}
+
+#postHeader {
+	width: 100%;
+	height: 100%;
+	float: left;
+	text-align: justify;
+	margin-bottom: 15px;
+}
+
+#username {
+	float: left;
+	width: 49%;
+	display: inline-block;
+}
+
+#date {
+	width: 30%;
+	float: right;
+	text-align: center;
+}

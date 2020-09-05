@@ -1,0 +1,25 @@
+#tree,#tree ul {
+	list-style-type: none;
+}
+
+#tree li>span {
+	margin-left: 20px;
+}
+
+#tree li>.goodtree_toggle {
+	position: absolute;
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+}
+
+#tree li ul {
+	margin-left: 22px;
+}
+
+.focus {
+	background-color: #eee;
+}
